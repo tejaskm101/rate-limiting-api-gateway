@@ -9,5 +9,4 @@ public class RateLimitingApiGatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RateLimitingApiGatewayApplication.class, args);
 	}
-
 }
